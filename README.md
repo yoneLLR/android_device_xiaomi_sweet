@@ -1,4 +1,4 @@
-Copyright (C) 2023 The LineageOS Project
+Copyright (C) 2024 The LineageOS Project
 
 Device configuration for Xiaomi Redmi Note 10 Pro/Pro Max
 =========================================
