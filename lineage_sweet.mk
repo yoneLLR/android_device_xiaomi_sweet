@@ -25,5 +25,6 @@ PRODUCT_SYSTEM_NAME := sweet_global
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="sweet_global-user 13 TKQ1.221013.002 V14.0.9.0.TKFMIXM release-keys" \
-    BuildFingerprint=Redmi/sweet_global/sweet:13/TKQ1.221013.002/V14.0.9.0.TKFMIXM:user/release-keys
+    BuildDesc="sweet_global-user 13 RKQ1.210614.002 V14.0.8.0.TKFMIXM release-keys" \
+    BuildFingerprint=Redmi/sweet_global/sweet:13/RKQ1.210614.002/V14.0.8.0.TKFMIXM:user/release-keys \
+    DeviceProduct=$(PRODUCT_SYSTEM_NAME)
