@@ -28,4 +28,4 @@ Front Camera | 16 MP, f/2.5, (wide), 1/3.06", 1.0µm
 
 ## Device picture
 
-![Xiaomi Redmi Note 10 Pro/Max]([https://cdn.dxomark.com/wp-content/uploads/medias/post-79073/Xiaomi-Redmi-Note-10-Pro-_Yoast-image-packshot-review.jpg](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note10-pro-4.jpg))
+![Xiaomi Redmi Note 10 Pro/Max]([[https://cdn.dxomark.com/wp-content/uploads/medias/post-79073/Xiaomi-Redmi-Note-10-Pro-_Yoast-image-packshot-review.jpg](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note10-pro-4.jpg](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note10-pro-4.jpg)))
