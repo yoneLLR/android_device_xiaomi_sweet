@@ -27,4 +27,4 @@ Rear Camera 4 | 2 MP, f/2.4, (depth)
 Front Camera | 16 MP, f/2.5, (wide), 1/3.06", 1.0µm
 
 ## Device picture
-![Xiaomi Redmi Note 10 Pro/Max](https://fdn2.gsmarena.com/vv/pics/xaomi/xiaomi-redmi-note10-pro-4.jpg)
+![Xiaomi Redmi Note 10 Pro/Max](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note10-pro-4.jpg)
